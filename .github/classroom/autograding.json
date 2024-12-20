@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Assignment Grading",
+      "setup": "pip install folium geopy beautifulsoup4 pandas",
+      "run": "python test_assignment.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 100
+    }
+  ]
+}
